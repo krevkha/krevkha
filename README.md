@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @krevkha
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Python, c# and Azure
